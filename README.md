@@ -1,42 +1,50 @@
-<p align="left">Welcome to my World!</p>
+<h1 align="center">👨‍💻 Aitor Santos</h1>
+<h3 align="center">Estudiante de DAM | Apasionado del Testing y del Clean Code 🧪🧼</h3>
 
-###
+<p align="center">
+  🐙 GitHub: Mortir87 &nbsp; | &nbsp; 🔗 LinkedIn: Aitor Santos
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+---
 
-###
+### 🇪🇸 Sobre mí
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+🎓 Soy Aitor Santos, estudiante de **Desarrollo de Aplicaciones Multiplataforma** (DAM).  
+🧪 Me apasiona el mundo del **testing** y el **Clean Code** como filosofía de desarrollo.  
+🛠️ Actualmente trabajo con herramientas como **ALM17**, **Citrix** y **SoapUI** en mis prácticas como tester.  
+📚 Aprendiendo y profundizando en **Java**, **SQL**, **Python** y **Git**.  
+🔍 Curioso, perfeccionista, proactivo y **100% enfocado** en cada meta que me propongo.
 
-###
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+### 🇬🇧 About me
 
-###
+🎓 I'm Aitor Santos, a **Multiplatform Application Development (DAM)** student.  
+🧪 Enthusiastic about **software testing** and passionate about **Clean Code** principles.  
+🛠️ Currently using **ALM17**, **Citrix**, and **SoapUI** in my internship as a tester.  
+📚 Learning and deepening my skills in **Java**, **SQL**, **Python**, and **Git**.  
+🔍 Curious, detail-oriented, and **laser-focused** on achieving goals.
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+- ☕ Java  
+- 🐘 SQL  
+- 🐍 Python  
+- 🌀 Git  
+- 🧪 SoapUI  
+- 🖥️ Citrix  
+- 📁 ALM17
+
+---
+
+### 🌐 Contacto
+
+- 🐙 GitHub: `Mortir87`  
+- 🔗 LinkedIn: `Aitor Santos`  
+
+---
+
+> 💬 *"No paro hasta conseguirlo."*  
+> ✨ Siempre mejorando, siempre trasteando.
