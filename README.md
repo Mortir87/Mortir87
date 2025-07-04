@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de DAM | Apasionado del Testing y del Clean Code 🧪🧼</h3>
 
 <p align="center">
-  🐙 GitHub: Mortir87 &nbsp; | &nbsp; 🔗 LinkedIn: Aitor Santos
+  🐙 GitHub: Mortir87 &nbsp; | &nbsp; 🔗 LinkedIn: AitorS
 </p>
 
 ---
@@ -41,8 +41,9 @@
 
 ### 🌐 Contacto
 
-- 🐙 GitHub: `Mortir87`  
-- 🔗 LinkedIn: `Aitor Santos`  
+- 🔗 [GitHub: Mortir87](https://github.com/Mortir87)  
+- 🔗 [LinkedIn: Aitor Santos](https://www.linkedin.com/in/AitorS)
+
 
 ---
 
